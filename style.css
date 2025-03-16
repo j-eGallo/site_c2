@@ -344,6 +344,11 @@ footer img {
   margin-top: 9%;
 }
 
+  #citation h1 {
+    font-size: 16px;
+    margin-top: 18px;
+}
+  
 .linkSold {
   display: grid;
   margin-top: 9%;
